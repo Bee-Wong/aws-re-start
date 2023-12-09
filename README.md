@@ -11,4 +11,8 @@ Hi there! Welcome to AWS Cloud9!
 To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
-Happy coding!
+This is the repository for works/tasks I completed in AWS Cloud9 and VSCode,
+during my training period with Netcom Training for AWS re/Start program.
+
+Happy Coding!
+- Beewong Pun.
